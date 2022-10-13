@@ -1,4 +1,3 @@
 ---
 linux_config_motd_default_message: "Message from host_vars quorum"
-linux_config_motd_static: true
 ...
