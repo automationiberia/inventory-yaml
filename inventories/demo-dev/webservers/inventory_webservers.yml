@@ -1,6 +1,6 @@
 ---
   dbservers:
     hosts:
-      node[1-2].bcnconsulting.com:
+      node[1:2].bcnconsulting.com:
       rhel7.bcnconsulting.com:
 ...
