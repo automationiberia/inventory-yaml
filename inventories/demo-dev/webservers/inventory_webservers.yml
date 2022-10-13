@@ -1,4 +1,4 @@
-...
+---
   dbservers:
     hosts:
       node[1-2].bcnconsulting.com:
