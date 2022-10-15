@@ -1,4 +1,4 @@
 ---
 linux_config_motd_static: true
-linux_config_motd_default_message: "Message from group_vars DEV environment"
+linux_config_motd_default_message: "Message from group_vars DEV environment - second push"
 ...
