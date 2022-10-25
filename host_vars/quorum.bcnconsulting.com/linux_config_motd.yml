@@ -1,3 +1,3 @@
 ---
-linux_config_motd_default_message: "Message from host_vars quorum - Push after 20221025"
+linux_config_motd_default_message: "Message from host_vars quorum - Push Playbook Changed 14:45"
 ...
