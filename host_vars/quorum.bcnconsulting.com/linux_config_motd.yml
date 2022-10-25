@@ -1,3 +1,3 @@
 ---
-linux_config_motd_default_message: "Message from host_vars quorum - Push Silvio"
+linux_config_motd_default_message: "Message from host_vars quorum - Push after 20221025"
 ...
