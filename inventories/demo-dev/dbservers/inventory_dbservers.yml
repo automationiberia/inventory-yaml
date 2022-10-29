@@ -1,6 +1,0 @@
----
-dbservers:
-  hosts:
-    node[3:4].bcnconsulting.com:
-    quorum.bcnconsulting.com:
-...

@@ -1,8 +1,0 @@
----
-demo-dev:
-  hosts:
-    exec-node1.bcnconsulting.com:
-  children:
-    dbservers:
-    webservers:
-...
