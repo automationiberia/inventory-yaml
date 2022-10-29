@@ -1,0 +1,6 @@
+---
+os_update:
+  hosts:
+    quorum.bcnconsulting.com:
+    rhel7.bcnconsulting.com:
+...

@@ -1,0 +1,6 @@
+---
+inventory_owner: superamin
+yum_update: false
+yum_update_security: false
+reboot_only_if_needed: true
+...

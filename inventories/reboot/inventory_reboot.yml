@@ -1,0 +1,7 @@
+---
+reboot:
+  hosts:
+    quorum.bcnconsulting.com:
+    rhel7.bcnconsulting.com:
+    exec-node1.bcnconsulting.com:
+...

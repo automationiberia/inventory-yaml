@@ -1,0 +1,4 @@
+---
+yum_update: false
+yum_update_security: true
+...

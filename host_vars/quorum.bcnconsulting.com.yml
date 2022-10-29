@@ -1,0 +1,4 @@
+---
+application: cluster
+cluster_type: pacemaker
+...
